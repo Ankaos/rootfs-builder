@@ -1,1 +1,5 @@
 deb http://ports.ubuntu.com/  @DISTRIBUTION@-backports @ARCHIVE_AREAS@
+deb http://ports.ubuntu.com/  @DISTRIBUTION@ @ARCHIVE_AREAS@
+deb http://ports.ubuntu.com/  @DISTRIBUTION@-proposed @ARCHIVE_AREAS@
+deb http://ports.ubuntu.com/  @DISTRIBUTION@-security @ARCHIVE_AREAS@
+deb http://ports.ubuntu.com/  @DISTRIBUTION@-updates @ARCHIVE_AREAS@
